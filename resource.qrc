@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="background.gif">resource/background_very_hacky.gif</file>
+        <file alias="music.mp3">resource/music.mp3</file>
+        <file alias="video.mp4">resource/video.mp4</file>
+    </qresource>
+</RCC>
